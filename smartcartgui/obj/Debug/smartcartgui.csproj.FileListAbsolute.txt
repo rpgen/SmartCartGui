@@ -1,0 +1,29 @@
+c:\users\rbpeck\documents\visual studio 2015\Projects\smartcartgui\smartcartgui\bin\Debug\smartcartgui.exe.config
+c:\users\rbpeck\documents\visual studio 2015\Projects\smartcartgui\smartcartgui\bin\Debug\smartcartgui.exe
+c:\users\rbpeck\documents\visual studio 2015\Projects\smartcartgui\smartcartgui\bin\Debug\smartcartgui.pdb
+c:\users\rbpeck\documents\visual studio 2015\Projects\smartcartgui\smartcartgui\obj\Debug\smartcartgui.csprojResolveAssemblyReference.cache
+c:\users\rbpeck\documents\visual studio 2015\Projects\smartcartgui\smartcartgui\obj\Debug\MainWindow.g.cs
+c:\users\rbpeck\documents\visual studio 2015\Projects\smartcartgui\smartcartgui\obj\Debug\App.g.cs
+c:\users\rbpeck\documents\visual studio 2015\Projects\smartcartgui\smartcartgui\obj\Debug\smartcartgui_MarkupCompile.cache
+c:\users\rbpeck\documents\visual studio 2015\Projects\smartcartgui\smartcartgui\obj\Debug\smartcartgui_MarkupCompile.lref
+c:\users\rbpeck\documents\visual studio 2015\Projects\smartcartgui\smartcartgui\obj\Debug\MainWindow.baml
+c:\users\rbpeck\documents\visual studio 2015\Projects\smartcartgui\smartcartgui\obj\Debug\smartcartgui.g.resources
+c:\users\rbpeck\documents\visual studio 2015\Projects\smartcartgui\smartcartgui\obj\Debug\smartcartgui.Properties.Resources.resources
+c:\users\rbpeck\documents\visual studio 2015\Projects\smartcartgui\smartcartgui\obj\Debug\smartcartgui.csproj.GenerateResource.Cache
+c:\users\rbpeck\documents\visual studio 2015\Projects\smartcartgui\smartcartgui\obj\Debug\smartcartgui.exe
+c:\users\rbpeck\documents\visual studio 2015\Projects\smartcartgui\smartcartgui\obj\Debug\smartcartgui.pdb
+C:\Users\Matteen Helmand\Desktop\smartcartgui\smartcartgui\bin\Debug\smartcartgui.exe.config
+C:\Users\Matteen Helmand\Desktop\smartcartgui\smartcartgui\bin\Debug\smartcartgui.exe
+C:\Users\Matteen Helmand\Desktop\smartcartgui\smartcartgui\bin\Debug\smartcartgui.pdb
+C:\Users\Matteen Helmand\Desktop\smartcartgui\smartcartgui\obj\Debug\smartcartgui.csprojResolveAssemblyReference.cache
+C:\Users\Matteen Helmand\Desktop\smartcartgui\smartcartgui\obj\Debug\MainWindow.g.cs
+C:\Users\Matteen Helmand\Desktop\smartcartgui\smartcartgui\obj\Debug\App.g.cs
+C:\Users\Matteen Helmand\Desktop\smartcartgui\smartcartgui\obj\Debug\smartcartgui_MarkupCompile.cache
+C:\Users\Matteen Helmand\Desktop\smartcartgui\smartcartgui\obj\Debug\smartcartgui_MarkupCompile.lref
+C:\Users\Matteen Helmand\Desktop\smartcartgui\smartcartgui\obj\Debug\MainWindow.baml
+C:\Users\Matteen Helmand\Desktop\smartcartgui\smartcartgui\obj\Debug\smartcartgui.g.resources
+C:\Users\Matteen Helmand\Desktop\smartcartgui\smartcartgui\obj\Debug\smartcartgui.Properties.Resources.resources
+C:\Users\Matteen Helmand\Desktop\smartcartgui\smartcartgui\obj\Debug\smartcartgui.csproj.GenerateResource.Cache
+C:\Users\Matteen Helmand\Desktop\smartcartgui\smartcartgui\obj\Debug\smartcartgui.csproj.CoreCompileInputs.cache
+C:\Users\Matteen Helmand\Desktop\smartcartgui\smartcartgui\obj\Debug\smartcartgui.exe
+C:\Users\Matteen Helmand\Desktop\smartcartgui\smartcartgui\obj\Debug\smartcartgui.pdb
