@@ -6,7 +6,6 @@
         xmlns:local="clr-namespace:smartcartgui"
         mc:Ignorable="d"
         WindowState="Maximized"
-        WindowStyle="None"
         Title="MainWindow" Height="350" Width="525">
 
     <Grid>
@@ -24,8 +23,8 @@
         </DataGrid>
         <ProgressBar HorizontalAlignment="Left" Height="10" Margin="27,0,0,13.333" VerticalAlignment="Bottom" Width="125" ValueChanged="ProgressBar_ValueChanged"/>
         <Label x:Name="label2" Content="Progress to Spending Limit" HorizontalAlignment="Right" Margin="0,0,366.667,23.333" VerticalAlignment="Bottom" FontStyle="Italic" FontSize="10" Width="125"/>
-        <ComboBox HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="388,33,0,0" SelectionChanged="ComboBox_SelectionChanged">
-            <ComboBoxItem>Set Spending Limit Click</ComboBoxItem>
+        <ComboBox Name="ComboBox1" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="388,33,0,0" SelectionChanged="ComboBox_SelectionChanged">
+            <ComboBoxItem Name="cb_limit">Set Spending Limit Click</ComboBoxItem>
             <ComboBoxItem>Override</ComboBoxItem>
             <ComboBoxItem>Help</ComboBoxItem>
             <ComboBoxItem>Help</ComboBoxItem>

@@ -90,6 +90,10 @@ namespace smartcartgui
 
         private void ComboBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
+            if (ComboBox1.SelectedItem.Equals(cb_limit))
+            {
+                Console.WriteLine("Set spending limit");
+            }
         }
 
 
@@ -116,7 +120,7 @@ namespace smartcartgui
             private set
             {
                 _now = value;
-                PropertyChanged(this, new PropertyChangedEventArgs("CurrentDateTime"));
+                //PropertyChanged(this, new PropertyChangedEventArgs("CurrentDateTime"));
             }
         }
 
